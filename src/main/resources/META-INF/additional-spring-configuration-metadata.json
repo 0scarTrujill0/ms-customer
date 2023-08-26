@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "myapp.default-document-number",
+      "type": "java.lang.String",
+      "description": "Custom propertie for search a customer'"
+    }
+  ]
+}
